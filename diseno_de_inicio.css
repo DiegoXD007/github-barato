@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background : black;
+  
+}
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: size 25px;;
+}
+.caja{
+    align-items: center;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.input{
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+}
+.botones{
+    color: white;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.recuperacion{
+    color: rgb(99, 99, 182);
+}
