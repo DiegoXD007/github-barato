@@ -8,7 +8,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "file:///C:/Users/Admin/Desktop/praticas/inicio%20de%20seccion%20de%20git%20barato/inicio_de_seccion.html",
+            "url": "http://127.0.0.1:5500/inicio_de_seccion.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
